@@ -410,7 +410,7 @@ body{
 
       <div class="gallery-item">
         <a href="images/Model1.jpg" class="glightbox">
-          <img src="images/Model1.jpg">
+          <img src="Model1.jpg">
         </a>
       </div>
 
